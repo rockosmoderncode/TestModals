@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_in_another_file">This is a string outside strings.xml</string>
+</resources>
